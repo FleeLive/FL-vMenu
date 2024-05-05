@@ -1,7 +1,7 @@
 # FL-vMenu
 ## As seen in [Santos State](https://discord.gg/playsantos)
 
-  <img src="https://imgur.com/a/42cNGhW" />
+  <img src="https://imgur.com/a/42cNGhW"/>
 
 ## Looking to find more Resources like this?[Discord]
 [![KF Creative Studios Discord](https://discordapp.com/api/guilds/1064262705193693295/widget.png?style=banner4)](https://discord.gg/npuB5yEcH3)
