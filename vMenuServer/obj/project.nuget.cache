@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBc2ZXZFlc+wKNEC7VyOFtXG2cStHcpDQvydvA6tYWTt5THjS9coNuJXDd9vlPpz4wczFiByWNoyr+X1ocJR6A==",
+  "success": true,
+  "projectFilePath": "D:\\K&F Creative Studios\\scripts\\Commisions\\Santos State Interaction Menu & Depends\\Current\\ss-vMenu\\vMenuServer\\vMenuServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rylan\\.nuget\\packages\\citizenfx.core.server\\1.0.6335\\citizenfx.core.server.1.0.6335.nupkg.sha512",
+    "C:\\Users\\rylan\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\rylan\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
