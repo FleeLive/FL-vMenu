@@ -5,7 +5,7 @@ https://ibb.co/bd6Gwh3
 <img src="https://i.ibb.co/tCH1jfh/FL-vMenu.png"></img></a>
 
 ## Looking to find more Resources like this?[Discord]
-##[KF Creative Studios Discord](https://discord.gg/npuB5yEcH3)
+## [KF Creative Studios Discord](https://discord.gg/npuB5yEcH3)
 
 ## Continued Documentation
 https://docs.vespura.com/vmenu/
@@ -21,7 +21,7 @@ This version also removes the about Menu from the vMenu - as it was something Sa
 ### We recommend using a [Menu Background](https://forum.cfx.re/t/how-to-add-a-custom-banner-to-vmenu-the-solution/1856028) with this script
 
 --------
-#### Vespura Description:
+# Vespura Readme:
 
 Please follow the instructions over at the [vMenu docs](https://docs.vespura.com/vmenu/installation)
 
