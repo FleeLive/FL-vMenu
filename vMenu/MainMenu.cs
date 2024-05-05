@@ -481,7 +481,7 @@ namespace vMenuClient
                 return;
             }
             // Create the main menu.
-            Menu = new Menu(" ", "Santos State vMenu");
+            Menu = new Menu(" ", "FL-vMenu");
             PlayerSubmenu = new Menu(" ", "Player Related Options");
             VehicleSubmenu = new Menu(" ", "Vehicle Related Options");
             WorldSubmenu = new Menu(" ", "World Options");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\K&F Creative Studios\\scripts\\Commisions\\Santos State Interaction Menu & Depends\\Current\\ss-vMenu\\vMenuServer\\vMenuServer.csproj": {}
+    "D:\\K&F Creative Studios\\scripts\\CS\\PubvMenu\\vMenuServer\\vMenuServer.csproj": {}
   },
   "projects": {
-    "D:\\K&F Creative Studios\\scripts\\Commisions\\Santos State Interaction Menu & Depends\\Current\\ss-vMenu\\vMenuServer\\vMenuServer.csproj": {
+    "D:\\K&F Creative Studios\\scripts\\CS\\PubvMenu\\vMenuServer\\vMenuServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\K&F Creative Studios\\scripts\\Commisions\\Santos State Interaction Menu & Depends\\Current\\ss-vMenu\\vMenuServer\\vMenuServer.csproj",
+        "projectUniqueName": "D:\\K&F Creative Studios\\scripts\\CS\\PubvMenu\\vMenuServer\\vMenuServer.csproj",
         "projectName": "vMenuServer.net",
-        "projectPath": "D:\\K&F Creative Studios\\scripts\\Commisions\\Santos State Interaction Menu & Depends\\Current\\ss-vMenu\\vMenuServer\\vMenuServer.csproj",
+        "projectPath": "D:\\K&F Creative Studios\\scripts\\CS\\PubvMenu\\vMenuServer\\vMenuServer.csproj",
         "packagesPath": "C:\\Users\\rylan\\.nuget\\packages\\",
-        "outputPath": "D:\\K&F Creative Studios\\scripts\\Commisions\\Santos State Interaction Menu & Depends\\Current\\ss-vMenu\\vMenuServer\\obj\\",
+        "outputPath": "D:\\K&F Creative Studios\\scripts\\CS\\PubvMenu\\vMenuServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rylan\\AppData\\Roaming\\NuGet\\NuGet.Config",

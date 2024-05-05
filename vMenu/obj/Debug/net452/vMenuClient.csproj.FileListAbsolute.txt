@@ -20,3 +20,14 @@ C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenu\obj\Debug\net452\vMenuClie
 C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenu\obj\Debug\net452\vMenuClient.csproj.CoreCompileInputs.cache
 C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenu\obj\Debug\net452\vMenuCli.89F3D59C.Up2Date
 C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenu\obj\Debug\net452\vMenuClient.net.dll
+D:\K&F Creative Studios\scripts\CS\build\net452\vMenuClient.net.dll
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.csproj.AssemblyReference.cache
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.net.g.resources
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.Properties.Resources.resources
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.csproj.GenerateResource.cache
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.AssemblyInfoInputs.cache
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.AssemblyInfo.cs
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.csproj.CoreCompileInputs.cache
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuCli.89F3D59C.Up2Date
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenu\obj\Debug\net452\vMenuClient.net.dll

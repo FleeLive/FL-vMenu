@@ -22,3 +22,15 @@ C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenuServer\obj\Debug\net452\vMe
 C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenuServer\obj\Debug\net452\vMenuServer.AssemblyInfo.cs
 C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenuServer\obj\Debug\net452\vMenuServer.csproj.CoreCompileInputs.cache
 C:\Development\Refs Etc\Scripts to REF\ss-vMenu\vMenuServer\obj\Debug\net452\vMenuServer.net.dll
+D:\K&F Creative Studios\scripts\CS\build\net452\config\addons.json
+D:\K&F Creative Studios\scripts\CS\build\net452\config\locations.json
+D:\K&F Creative Studios\scripts\CS\build\net452\config\permissions.cfg
+D:\K&F Creative Studios\scripts\CS\build\net452\storage.html
+D:\K&F Creative Studios\scripts\CS\build\net452\System.Numerics.dll
+D:\K&F Creative Studios\scripts\CS\build\net452\vMenuServer.net.dll
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenuServer\obj\Debug\net452\vMenuServer.csproj.AssemblyReference.cache
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenuServer\obj\Debug\net452\vMenuServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenuServer\obj\Debug\net452\vMenuServer.AssemblyInfoInputs.cache
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenuServer\obj\Debug\net452\vMenuServer.AssemblyInfo.cs
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenuServer\obj\Debug\net452\vMenuServer.csproj.CoreCompileInputs.cache
+D:\K&F Creative Studios\scripts\CS\PubvMenu\vMenuServer\obj\Debug\net452\vMenuServer.net.dll

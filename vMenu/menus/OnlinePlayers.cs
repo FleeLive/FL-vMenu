@@ -33,7 +33,7 @@ namespace vMenuClient.menus
         private void CreateMenu()
         {
             // Create the menu.
-            menu = new Menu(" ", "Santos State")
+            menu = new Menu(" ", "Community")
             {
                 CounterPreText = "Players: "
             };

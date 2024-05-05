@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mt6+/8EiTQo6izklHdGlny8ZLdbRcePMA99dafwZVkSmOe146jTE6s0sBXwVd5sdTGGcS+QgFC6J4u1jOfuVBw==",
+  "dgSpecHash": "TsY77BEGh7kvZQHXEcYVmGS/YXZ/n7BI1MopNjoRCFLfrjT/yepJeLX2/nmd4Hp+BkHbQklFL1rNCAZCUb/GwA==",
   "success": true,
-  "projectFilePath": "D:\\K&F Creative Studios\\scripts\\Commisions\\Santos State Interaction Menu & Depends\\Current\\ss-vMenu\\vMenu\\vMenuClient.csproj",
+  "projectFilePath": "D:\\K&F Creative Studios\\scripts\\CS\\PubvMenu\\vMenu\\vMenuClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rylan\\.nuget\\packages\\citizenfx.core.client\\1.0.6370\\citizenfx.core.client.1.0.6370.nupkg.sha512",
     "C:\\Users\\rylan\\.nuget\\packages\\menuapi.fivem\\3.2.2\\menuapi.fivem.3.2.2.nupkg.sha512",
