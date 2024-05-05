@@ -1,15 +1,14 @@
 # FL-vMenu
 ## As seen in [Santos State](https://discord.gg/playsantos)
 
-https://ibb.co/bd6Gwh3
+
 <img src="https://i.ibb.co/tCH1jfh/FL-vMenu.png"></img></a>
 
-## Looking to find more Resources like this?[Discord]
 ## [KF Creative Studios Discord](https://discord.gg/npuB5yEcH3)
 
 ## Continued Documentation
 https://docs.vespura.com/vmenu/
-
+[OG vMenu Repository](https://github.com/TomGrobbe/vMenu)
 
 ## An Overview
 ### Version 1.0
