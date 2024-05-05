@@ -2,10 +2,10 @@
 ## As seen in [Santos State](https://discord.gg/playsantos)
 
 https://ibb.co/bd6Gwh3
-<a href="https://ibb.co/bd6Gwh3"><img src="https://i.ibb.co/tCH1jfh/FL-vMenu.png"></img></a>
+<img src="https://i.ibb.co/tCH1jfh/FL-vMenu.png"></img></a>
 
 ## Looking to find more Resources like this?[Discord]
-[![KF Creative Studios Discord](https://discordapp.com/api/guilds/1064262705193693295/widget.png?style=banner4)](https://discord.gg/npuB5yEcH3)
+##[KF Creative Studios Discord](https://discord.gg/npuB5yEcH3)
 
 ## Continued Documentation
 https://docs.vespura.com/vmenu/
@@ -19,6 +19,8 @@ This is an edit to the server sided trainer, vMenu, created by Vespura. This edi
 This version also removes the about Menu from the vMenu - as it was something Santos State desired.
 
 ### We recommend using a [Menu Background](https://forum.cfx.re/t/how-to-add-a-custom-banner-to-vmenu-the-solution/1856028) with this script
+
+--------
 #### Vespura Description:
 
 Please follow the instructions over at the [vMenu docs](https://docs.vespura.com/vmenu/installation)
